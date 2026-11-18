@@ -1,16 +1,16 @@
 <p align="center"><img src="docs/img/translateos-logo.png" width="128" alt="TranslateOS logosu"></p>
 
-# TranslateOS: PS5 Oyunlarına TV'de Anlık Türkçe Altyazı (GTA 5 · GTA 6)
+# TranslateOS: XBOX Oyunlarına TV'de Anlık Türkçe Altyazı (GTA 5 · GTA 6)
 
 **TranslateOS**, LG webOS akıllı televizyonda çalışan, yapay zekâ destekli bir **gerçek zamanlı oyun altyazı çevirmenidir**. PlayStation 5'teki İngilizce oyunların altyazısını ekrandan okur, **Türkçeye çevirir** ve İngilizce altyazının tam üstüne yazar.
 
-Bilgisayar, kamera, capture card ya da başka bir cihaz gerekmez. PS5 HDMI ile TV'ye bağlı kalır, her şey **televizyonun içinde** çalışır.
+Bilgisayar, kamera, capture card ya da başka bir cihaz gerekmez. XBOX HDMI ile TV'ye bağlı kalır, her şey **televizyonun içinde** çalışır.
 
-> GTA 5 Türkçe altyazı · GTA 6 Türkçe yama · PS5 Türkçe çeviri · LG TV oyun çevirmeni · yapay zekâ ile anlık altyazı
+> GTA 5 Türkçe altyazı · GTA 6 Türkçe yama · XBOX Türkçe çeviri · LG TV oyun çevirmeni · yapay zekâ ile anlık altyazı
 
 ![GTA 5'te TranslateOS ile Türkçe altyazı: sarı Türkçe, önceki cümle üstte soluk](docs/screenshots/gta5-turkce-altyazi-sari.jpg)
 
-*Ekran görüntüsü doğrudan TV'den alınmıştır: PS5'te GTA V, LG QNED TV, TranslateOS açık. Sarı Türkçe İngilizce altyazının yerine yazılıyor; bir önceki cümle üstte küçük ve soluk kalıyor. Varsayılan düzende Türkçe ekranın en altında, sinema altyazısı gibi durur ve İngilizceyi örtmez; Sarı tuşla İngilizcenin üstüne ya da yerine alınabilir.*
+*Ekran görüntüsü doğrudan TV'den alınmıştır: XBOX'da GTA V, LG QNED TV, TranslateOS açık. Sarı Türkçe İngilizce altyazının yerine yazılıyor; bir önceki cümle üstte küçük ve soluk kalıyor. Varsayılan düzende Türkçe ekranın en altında, sinema altyazısı gibi durur ve İngilizceyi örtmez; Sarı tuşla İngilizcenin üstüne ya da yerine alınabilir.*
 
 ### Canlı test sonucu
 
@@ -27,7 +27,7 @@ GTA V'te 10 dakika kesintisiz oynanıp TV'den alınan 570 kare tek tek incelendi
 
 ## Neler yapıyor?
 
-- 🎮 **Oyun TV'de, altyazı Türkçe.** PS5'te her zamanki gibi oynarsın; İngilizce altyazının yerinde Türkçesi görünür.
+- 🎮 **Oyun TV'de, altyazı Türkçe.** XBOX'da her zamanki gibi oynarsın; İngilizce altyazının yerinde Türkçesi görünür.
 - 🧠 **Yapay zekâ ile okuma ve çeviri.** Altyazı bölgesi Google Gemini'ye gider; model tek istekte hem okur hem çevirir.
 - 🔥 **Sansürsüz, doğal çeviri.** Sokak ağzı, argo ve küfür yumuşatılmadan, oyundaki sertliğiyle Türkçeye aktarılır. Çeviri yalnızca Türkçedir.
 - ⚡ **Hızlı.** Altyazı göründükten yaklaşık 1–1,5 saniye sonra Türkçesi gelir. Daha önce herhangi bir oyuncunun gördüğü cümleler, yazının şeklinden tanınıp Gemini'ye sorulmadan anında gösterilir.
@@ -38,7 +38,7 @@ GTA V'te 10 dakika kesintisiz oynanıp TV'den alınan 570 kare tek tek incelendi
 - 💾 **Cümle hafızası.** Çevrilen her cümle TV'de saklanır; aynı cümle her zaman aynı Türkçeyle çıkar.
 - 🌍 **Ortak hafıza.** Bir oyuncunun çevirdiği cümle herkese anında ve ücretsiz gelir; oyuncu arttıkça çeviri hızlanır, Gemini kullanımı azalır. Sunucuya resim gitmez, sadece İngilizce cümle ve Türkçesi; isim, e-posta ya da IP saklanmaz.
 - 📺 **Kumanda ile kontrol.** OK ya da Yeşil: menü · Sarı: Türkçenin yeri (en altta / üstte / yerine) · Mavi: kendi Gemini anahtarını gir · 1–4: HDMI girişi · Geri: çıkış.
-- 🔌 **Doğru HDMI girişi kendiliğinden seçilir.** PS5 hangi girişe bağlıysa TranslateOS onu açar; rakam tuşlarıyla seçilen giriş hatırlanır.
+- 🔌 **Doğru HDMI girişi kendiliğinden seçilir.** XBOX hangi girişe bağlıysa TranslateOS onu açar; rakam tuşlarıyla seçilen giriş hatırlanır.
 - 🔌 **Sadece açınca çalışır.** TV açılınca kendiliğinden başlamaz. Geri tuşuyla tamamen kapanır, arka planda çalışmaz ve TV normal HDMI görüntüsüne döner.
 - 🔁 **Developer Mode süresi kendiliğinden uzar.**
 - 😴 **TV uyumaz.** Kumandaya dokunmasan da oyun sırasında ekran koruyucu devreye girmez; girerse ekran hemen geri açılır.
@@ -52,14 +52,14 @@ OK (ya da Yeşil) tuşuyla açılır, 10 saniyede kendiliğinden kapanır: çevi
 
 ## GTA 5 ve GTA 6
 
-- **GTA 5 (GTA V):** PS5'te test edildi. Telefon görüşmeleri, görev konuşmaları ve çatışma sırasındaki diyaloglar çevriliyor.
+- **GTA 5 (GTA V):** XBOX'da test edildi. Telefon görüşmeleri, görev konuşmaları ve çatışma sırasındaki diyaloglar çevriliyor.
 - **GTA 6 (GTA VI):** TranslateOS oyuna özel değildir; ekranda İngilizce altyazı gösteren her oyunda çalışacak şekilde tasarlandı. GTA 6 çıktığında hedefimiz ilk günden Türkçe altyazıyla oynatmak.
-- Altyazısı olan diğer PS5 oyunları da çalışmalı. Denediğin oyunları [bize bildir](../../issues).
+- Altyazısı olan diğer XBOX oyunları da çalışmalı. Denediğin oyunları [bize bildir](../../issues).
 
 ## Nasıl çalışıyor?
 
 ```
-PS5 ──HDMI──► LG TV ──► TranslateOS uygulaması (oyun görüntüsü + Türkçe altyazı katmanı)
+XBOX ──HDMI──► LG TV ──► TranslateOS uygulaması (oyun görüntüsü + Türkçe altyazı katmanı)
                          │
                          └─► Arka plan servisi: ekran görüntüsü (saniyede ~2–3 kare)
                                → altyazı bölgesi değişti mi?
@@ -92,7 +92,7 @@ Kısaca:
    - **Mac:** Terminal'e yapıştır: `curl -fsSL https://raw.githubusercontent.com/emrah-aydin/TranslateOS/main/install.sh | sh`
    - **Windows:** [son sürümden](https://github.com/emrah-aydin/TranslateOS/releases/latest) `TranslateOS-Kurulum.exe` dosyasını indir ve aç.
 3. Programı aç. TV'ni kendisi bulur; TV'deki 6 haneli kodu yaz, **Kur**'a bas. TranslateOS TV'de açılır.
-4. İlk açılıştaki izni onayla, PS5'te oyunu aç. Hepsi bu; anahtar ya da hesap gerekmez.
+4. İlk açılıştaki izni onayla, XBOX'da oyunu aç. Hepsi bu; anahtar ya da hesap gerekmez.
 
 ### Geliştiriciler için
 
